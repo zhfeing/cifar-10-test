@@ -1,0 +1,6 @@
+/data
+/data_sample
+/logs
+/model*
+/.idea
+/__pycache__
